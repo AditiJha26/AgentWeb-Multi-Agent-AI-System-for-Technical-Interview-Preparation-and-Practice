@@ -57,7 +57,7 @@ All agents share a central **ContextStore** that tracks your progress and memory
         │  PostgreSQL (DB)  │
         └───────────────────┘
 
-
+```
 ## Tech Stack
 
 **Core Frameworks**
@@ -131,4 +131,5 @@ Render automatically builds and redeploys the latest version of your app on ever
 ## Author:
 **Aditi Jha**
 **LinkedIn**: https://www.linkedin.com/in/aditi-jha-ab8309305/
+
 
