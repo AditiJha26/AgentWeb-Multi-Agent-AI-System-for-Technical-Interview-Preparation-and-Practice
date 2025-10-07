@@ -104,7 +104,7 @@ streamlit run app/streamlit_ui.py
 docker compose up --build
 # Then open your browser at:
 # http://localhost:8501
-
+```
 ---
 ## Deployment (Render)
 
@@ -132,6 +132,7 @@ Render automatically builds and redeploys the latest version of your app on ever
 ## Author:
 **Aditi Jha**
 **LinkedIn**: https://www.linkedin.com/in/aditi-jha-ab8309305/
+
 
 
 
