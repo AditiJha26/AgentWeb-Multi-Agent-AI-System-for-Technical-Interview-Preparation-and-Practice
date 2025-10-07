@@ -108,13 +108,15 @@ docker compose up --build
 ---
 ## Deployment (Render)
 
-Backend & UI: Deployed from Dockerfile on Render Web Service
-Database: Managed PostgreSQL on Render
+- Backend & UI: Deployed from Dockerfile on Render Web Service
+  
+- Database: Managed PostgreSQL on Render
 
 **Environment Variables:**
 
-OPENAI_API_KEY = your API key
-DATABASE_URL   = Render connection string (postgresql+psycopg://...)
+- OPENAI_API_KEY = your API key
+  
+- DATABASE_URL   = Render connection string (postgresql+psycopg://...)
 
 Render automatically builds and redeploys the latest version of your app on every git push.
 ---
@@ -131,7 +133,9 @@ Render automatically builds and redeploys the latest version of your app on ever
 ---
 ## Author:
 **Aditi Jha**
-**LinkedIn**: https://www.linkedin.com/in/aditi-jha-ab8309305/
+
+- **LinkedIn**: https://www.linkedin.com/in/aditi-jha-ab8309305/
+
 
 
 
