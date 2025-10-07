@@ -1,0 +1,8 @@
+streamlit
+openai
+tiktoken
+redis
+python-dotenv
+httpx
+SQLAlchemy>=2.0
+psycopg[binary]>=3.1
