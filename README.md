@@ -76,12 +76,12 @@ All agents share a central **ContextStore** that tracks your progress and memory
 
 - OpenAI API (gpt-3.5-turbo / gpt-4o-mini)
 
-
+---
 ## Local Development
 
 ```bash
 #  Clone the repo
-git clone https://github.com/YOUR-USERNAME/agentwebplus.git
+git clone (https://github.com/AditiJha26/AgentWeb-Multi-Agent-AI-System-for-Technical-Interview-Preparation-and-Practice.git)
 cd agentwebplus
 
 #  Create virtual environment
@@ -105,6 +105,7 @@ docker compose up --build
 # Then open your browser at:
 # http://localhost:8501
 
+---
 ## Deployment (Render)
 
 Backend & UI: Deployed from Dockerfile on Render Web Service
@@ -116,7 +117,7 @@ OPENAI_API_KEY = your API key
 DATABASE_URL   = Render connection string (postgresql+psycopg://...)
 
 Render automatically builds and redeploys the latest version of your app on every git push.
-
+---
 ## Features Summary
 
 - 4-Week personalized planner
@@ -127,9 +128,10 @@ Render automatically builds and redeploys the latest version of your app on ever
 - Shared context memory across agents
 - Fully containerized deployment (Docker + Render)
 - Secure: no secrets committed, environment-based config
-
+---
 ## Author:
 **Aditi Jha**
 **LinkedIn**: https://www.linkedin.com/in/aditi-jha-ab8309305/
+
 
 
